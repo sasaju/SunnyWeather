@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">SunnyWeather</string>
     <string name="searchPlaceEditHint">输入地址</string>
+    <string name="seprate">|</string>
+    <string name="forecast_chinese">预报</string>
+    <string name="life_number">生活指数</string>
+    <string name="cold">感冒</string>
+    <string name="cloths">穿衣</string>
+    <string name="perple_line">实时紫外线</string>
+    <string name="clean_car">洗车</string>
 </resources>
